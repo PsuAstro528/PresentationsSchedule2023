@@ -8,6 +8,8 @@
 
 - Wednesday, Dec 6:
 
+Thanks for adding your project.
+
 ## How to reschedule your presentation:
 - If you need to reschedule your presentation, then please find another student to swap with and then submit a pull request proposing the swap.
 
