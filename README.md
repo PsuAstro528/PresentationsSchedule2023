@@ -7,7 +7,6 @@
 - Wednesday, Nov 29:
   - Evan
   - Elizabeth
-  - Hannah
   - Yun-Jing
   - Gregory
 
@@ -20,7 +19,7 @@
   - Kyle
   - Kanishk
   - John
-  - Alexandra
-
+  - Hannah
+  - 
 ## How to reschedule your presentation:
 - If you need to reschedule your presentation, then please find another student to swap with and then submit a pull request proposing the swap.
